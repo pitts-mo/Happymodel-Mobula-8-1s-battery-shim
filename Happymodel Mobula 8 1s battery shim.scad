@@ -10,9 +10,6 @@ BatteryLength=60.25;
 BatteryWidth=16.8;
 BatteryThick=5.2; // 7mm acutal but setting smaller since they are not square
 
-OutSpan=17.73;
-InSpan=24.5;
-
 TrayStrapShift=21*0.5;
 TrayStrap=3.8;
 TrayWidth=20;
