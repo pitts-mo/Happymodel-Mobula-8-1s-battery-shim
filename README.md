@@ -1,0 +1,1 @@
+# Happymodel-Mobula-8-1s-battery-shim
