@@ -1,6 +1,7 @@
 # Happymodel-Mobula-8-1s-battery-shim
 
-This model allows for a 1s 450mah battery to friction fit into the 2s Mobula 8 battery tray while tucking an XT 30 addapter underslung within the original Mobula 8 battery tray.
+This model allows for a 1s 450mah battery to friction fit into the 2s Mobula8 battery tray while tucking an XT 30 addapter underslung within the original Mobula 8 battery tray. I have tested 1s to work well for indoor flight using Mobula8 HD with HDZero VTX attached to vbat (DJI plug).
+
 
 <img src="Happymodel Mobula 8 1s battery shim.png" width="40%">
 
