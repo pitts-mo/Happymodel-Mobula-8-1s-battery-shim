@@ -7,6 +7,6 @@ This model allows for a 1s 450mah battery to friction fit into the 2s Mobula8 ba
 
 Use [OpenSCAD](https://openscad.org/) to reder the .scad file and export to STL for your slicer.
 
-I printed in TPU with 15% infil and no supports.
+I printed in TPU with 15% infill and no supports.
 
 I was a little tempted to add a positive retention system to clip into the lower supports of Mobula 8 battery tray but so far I have not found that to be needed.
